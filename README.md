@@ -21,5 +21,5 @@ AN-GPT: https://chatgpt.com/g/g-uriGsTVJ8-an-gpt
 
 [Problema-Solução-1](https://github.com/eTecnologia/an-gpt/wiki/Problema%E2%80%90Solu%C3%A7%C3%A3o-1)
 
-[Exemplos de Prompts do Curso de Engenharia e Design de Promtp]()
+[Exemplos de Prompts do Curso de Engenharia e Design de Promtp](https://github.com/eTecnologia/an-gpt/wiki/Exemplos-de-Prompts-do-Curso-de-Engenharia-e-Design-de-Prompt-para-An%C3%A1lise-de-Neg%C3%B3cio)
 
